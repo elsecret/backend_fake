@@ -1,0 +1,13 @@
+{
+  "name": "backend_fake",
+  "version": "0.0.0",
+  "description": "backend_fake",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
